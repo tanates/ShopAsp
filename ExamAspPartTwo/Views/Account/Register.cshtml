@@ -1,0 +1,29 @@
+﻿@model ExamAspPartTwo.Models.RgisterModel
+
+
+<main class="container-sm   d-flex justify-content-center pt-5 ">
+    <form class="ogin container-sm" asp-action="Register" asp-controller="Account">
+        <div class="validation" asp-validation-summary="ModelOnly"></div>
+        <h1 id="h1_register"class="h3 px-5 fw-normal pt-xxl-5">Регистрация</h1>
+        <div id="register" calss="  ccontainer-sm  d-block align-items-center row gx-5 ">
+            <div class="form-floating p-1 ">
+                <input class="form-control " placeholder="name@example.com" id="floatingInput" type="text" asp-for="Email" />
+                <label for="floatingInput" asp-for="Email">Введите Email</label><br />
+                <span asp-validation-for="Email" />
+            </div>
+            <div class="form-floating p-1">
+                <input class="form-control " placeholder="Password" id="floatingPassword" asp-for="Password" />
+                <label for="floatingPassword" asp-for="Password">Введите пароль</label><br />
+                <span asp-validation-for="Password" />
+            </div>
+            <div class="form-floating p-1">
+                <input class="form-control " placeholder="ConfirmPassword" id="floatingConfirmPassword" asp-for="ConfirmPassword" />
+                <label for="floatingConfirmPassword" asp-for="ConfirmPassword">Повторите пароль</label><br />
+                <span asp-validation-for="ConfirmPassword" />
+            </div>
+
+            <input class="w-100 btn btn-lg btn-primary"  type="submit" value="Регистрация" />
+
+        </div>
+    </form>
+</main>

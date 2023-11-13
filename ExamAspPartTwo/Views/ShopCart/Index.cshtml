@@ -1,0 +1,12 @@
+﻿@model ExamAspPartTwo.ViewsModel.ShopCartVIewModel
+<div class=" container">
+    @foreach (var el in Model.ShopCart.LisShopItems)
+    {
+        <div>
+            <b>Автомобиль:</b>@el.Product.NameProduct<br/>
+            <b>Цена:</b>@el.Product.Price
+        </div>
+    }
+    <hr/>
+    <a class="btn btn-danger mb-5" asp-controller="Order" asp-action="Checkout">Оплатить</a>
+</div>

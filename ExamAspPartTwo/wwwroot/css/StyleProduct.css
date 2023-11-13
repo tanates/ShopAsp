@@ -1,0 +1,47 @@
+﻿div main form.ogin{
+    max-width:350px;
+}
+
+*{
+    margin:0;
+    padding:0;
+}
+
+.container{
+    width:100%;
+    margin:auto
+}
+
+main form div {
+    padding: 10px;
+    margin: auto;
+}
+main form div  h1 {
+   text-align:center;
+}
+
+div main form .shop{
+    width:100%
+}
+.main-form{
+    width:100%;
+}
+ #register {
+   padding-top:1px;
+   margin:auto;
+}
+ #h1_register {
+    margin-left: 34px;
+}
+.main-form form div{
+    transition:all linear .2s;
+    
+}
+.main-form form div:hover {
+    background:rgba(0,0,0,.10);
+}
+.nav-link {
+    font-size: 20px;
+    color: #2c6700;
+    transition: background-position 275ms ease;
+}

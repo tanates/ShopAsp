@@ -1,0 +1,225 @@
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\appsettings.json
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\ExamAspPartTwo.staticwebassets.runtime.json
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\ExamAspPartTwo.exe
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\ExamAspPartTwo.deps.json
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\ExamAspPartTwo.runtimeconfig.json
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\ExamAspPartTwo.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\ExamAspPartTwo.pdb
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\Humanizer.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\ExamAspPartTwo.csproj.AssemblyReference.cache
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\ExamAspPartTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\ExamAspPartTwo.AssemblyInfoInputs.cache
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\ExamAspPartTwo.AssemblyInfo.cs
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\ExamAspPartTwo.csproj.CoreCompileInputs.cache
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\ExamAspPartTwo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\ExamAspPartTwo.RazorAssemblyInfo.cache
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\ExamAspPartTwo.RazorAssemblyInfo.cs
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\staticwebassets\msbuild.ExamAspPartTwo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\staticwebassets\msbuild.build.ExamAspPartTwo.props
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ExamAspPartTwo.props
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ExamAspPartTwo.props
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\scopedcss\bundle\ExamAspPartTwo.styles.css
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\scopedcss\projectbundle\ExamAspPartTwo.bundle.scp.css
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\ExamAspPartTwo.csproj.CopyComplete
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\ExamAspPartTwo.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\refint\ExamAspPartTwo.dll
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\ExamAspPartTwo.pdb
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\ExamAspPartTwo.genruntimeconfig.cache
+C:\Users\timur\source\repos\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\ref\ExamAspPartTwo.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\appsettings.json
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\ExamAspPartTwo.staticwebassets.runtime.json
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\ExamAspPartTwo.exe
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\ExamAspPartTwo.deps.json
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\ExamAspPartTwo.runtimeconfig.json
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\ExamAspPartTwo.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\ExamAspPartTwo.pdb
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\ExamAspPartTwo.csproj.AssemblyReference.cache
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\ExamAspPartTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\ExamAspPartTwo.AssemblyInfoInputs.cache
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\ExamAspPartTwo.AssemblyInfo.cs
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\ExamAspPartTwo.csproj.CoreCompileInputs.cache
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\ExamAspPartTwo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\ExamAspPartTwo.RazorAssemblyInfo.cache
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\ExamAspPartTwo.RazorAssemblyInfo.cs
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\staticwebassets\msbuild.ExamAspPartTwo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\staticwebassets\msbuild.build.ExamAspPartTwo.props
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ExamAspPartTwo.props
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ExamAspPartTwo.props
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\scopedcss\bundle\ExamAspPartTwo.styles.css
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\scopedcss\projectbundle\ExamAspPartTwo.bundle.scp.css
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\ExamAspPartTwo.csproj.CopyComplete
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\ExamAspPartTwo.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\refint\ExamAspPartTwo.dll
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\ExamAspPartTwo.pdb
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\ExamAspPartTwo.genruntimeconfig.cache
+C:\Users\Академия ШАГ\Desktop\ExamAspPartTwo\ExamAspPartTwo\obj\Debug\net7.0\ref\ExamAspPartTwo.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\appsettings.json
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\ExamAspPartTwo.staticwebassets.runtime.json
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\ExamAspPartTwo.exe
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\ExamAspPartTwo.deps.json
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\ExamAspPartTwo.runtimeconfig.json
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\ExamAspPartTwo.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\ExamAspPartTwo.pdb
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\Humanizer.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\obj\Debug\net7.0\ExamAspPartTwo.csproj.AssemblyReference.cache
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\obj\Debug\net7.0\ExamAspPartTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\obj\Debug\net7.0\ExamAspPartTwo.AssemblyInfoInputs.cache
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\obj\Debug\net7.0\ExamAspPartTwo.AssemblyInfo.cs
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\obj\Debug\net7.0\ExamAspPartTwo.csproj.CoreCompileInputs.cache
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\obj\Debug\net7.0\ExamAspPartTwo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\obj\Debug\net7.0\ExamAspPartTwo.RazorAssemblyInfo.cache
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\obj\Debug\net7.0\ExamAspPartTwo.RazorAssemblyInfo.cs
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\obj\Debug\net7.0\staticwebassets\msbuild.ExamAspPartTwo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\obj\Debug\net7.0\staticwebassets\msbuild.build.ExamAspPartTwo.props
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ExamAspPartTwo.props
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ExamAspPartTwo.props
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\obj\Debug\net7.0\scopedcss\bundle\ExamAspPartTwo.styles.css
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\obj\Debug\net7.0\scopedcss\projectbundle\ExamAspPartTwo.bundle.scp.css
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\obj\Debug\net7.0\ExamAspPartTwo.csproj.CopyComplete
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\obj\Debug\net7.0\ExamAspPartTwo.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\obj\Debug\net7.0\refint\ExamAspPartTwo.dll
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\obj\Debug\net7.0\ExamAspPartTwo.pdb
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\obj\Debug\net7.0\ExamAspPartTwo.genruntimeconfig.cache
+C:\Users\timur\Desktop\ExamAspPartTwoComplite\ExamAspPartTwo\obj\Debug\net7.0\ref\ExamAspPartTwo.dll

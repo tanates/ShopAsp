@@ -1,0 +1,17 @@
+﻿@model ExamAspPartTwo.ViewsModel.ProductListViewModel
+
+@{
+
+}
+<main class="main-form" asp-controller="Market">
+<form class="shop container-fluid d-flex justify-content-between p-3 m-0 " >
+   
+    <h2></h2>
+    @{
+        foreach (ProductModel product in Model.ProductModels)
+        {
+            @Html.Partial("AllProducts" ,product)
+        }
+    }
+</form>
+</main>
